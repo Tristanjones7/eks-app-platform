@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.auto.tfvars
+crash.log
+
+# Keep .terraform.lock.hcl tracked (pins provider versions)
+
+# Secrets / local
+*.pem
+.env
+
+# Saved Terraform plan files (may contain secrets)
+tfplan
+*.tfplan
