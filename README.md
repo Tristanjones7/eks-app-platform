@@ -12,7 +12,7 @@
 
 ## 🧠 Overview
 
-A production-style application platform deployed on **Amazon EKS**, provisioned entirely with **Terraform**.
+A production-inspired cloud platform demonstrating how I would provision, deploy, secure, and observe a containerized application on AWS EKS.
 
 This project builds a complete cloud-native system: infrastructure, containerized application, deployment pipeline, and observability stack — all reproducible from code.
 
